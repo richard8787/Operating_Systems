@@ -7,6 +7,6 @@ HW2: Threading
 
 HW3: Key Value construction
 
-HW4:MLOps OS design
+HW4: MLOps OS design
 
 Check more detail in each folder, there is readme file in each homework
